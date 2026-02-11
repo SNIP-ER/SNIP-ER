@@ -25,7 +25,7 @@
 ---
 
 ### :bust_in_silhouette: About Me :
-I have been coding since 2021 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and try the most diverse direction.
+I have been coding since 2018 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and try the most diverse direction.
 
 - :anger: Interested in Frontend, Gamedev and App Development
 
